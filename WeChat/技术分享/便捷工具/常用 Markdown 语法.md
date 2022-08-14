@@ -60,11 +60,6 @@ gantt
 | Content from cell 1         | Content from cell 2          |
 | Content in the first columu | Content in the second columu |
 
-| Left-Aligned | Center Aligned  | Right Aligned |
-| ------------ | --------------- | ------------- |
-| col 3 is     | some wordy text | $1600         |
-| col 2 is     | centered        | $12           |
-
 ### 3.5 公式 LaTeX Mathmatical Formula
 
 Math inline: $\dfrac{\tfrac{1}{2}[1-(\tfrac{1}{2})^n]}{1-\tfrac{1}{2}} = s_n$
@@ -85,4 +80,3 @@ $$
 $$
 \phi_n(\kappa) = \frac{1}{\kappa\pi^2}\int_0^\infty\frac{\sin(\kappa R)}{\kappa R}R^2
 $$
-
