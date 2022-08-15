@@ -2,7 +2,7 @@
 在很多时候我们习惯于使用 Markdown 进行书写，但书写完成后需要进行格式化和排版才能在公众号文章里进行很好的呈现。可以达成的方式有很多，但这儿只讲述个人最常用的方式，主要包含如下步骤：
 
 1) 使用 Typora / VSCode 进行 Markdown 文档的书写
-2) 在 [Md2All](http://md.aclickall.com/) 完成排版并粘贴到公众号的后台进行台编辑
+2) 在 [Md2All](http://md.aclickall.com/) 完成排版并粘贴到公众号的后台进行再编辑
 3) 发布
 
 可见整个过程非常简洁方便，在随后的部分中将分别对不同的元素做简要描述。
@@ -39,9 +39,9 @@ print("Hello, world!")
 | first column   | second column <br> One more thing |
 
 ## 7 公式
-行内公式: $e^{x^2}\neq{e^x}^2$
+行内公式： $e^{x^2}\neq{e^x}^2$
 
-块间公式:
+块间公式：
 
 $$
 H(D_2) = -(\frac{2}{4}\ log_2 \frac{2}{4} + \frac{2}{4}\ log_2 \frac{2}{4}) = 1
