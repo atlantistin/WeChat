@@ -42,11 +42,13 @@ print("Hello, world!")
 行内公式: $e^{x^2}\neq{e^x}^2$
 
 块间公式:
+
 $$
 H(D_2) = -(\frac{2}{4}\ log_2 \frac{2}{4} + \frac{2}{4}\ log_2 \frac{2}{4}) = 1
 $$
 
 以及矩阵：
+
 $$
         \begin{pmatrix}
         1 & a_1 & a_1^2 & \cdots & a_1^n \\
@@ -57,7 +59,7 @@ $$
 $$
 
 ***
-如下部分仅在 Typora 中得到支持。
+如下部分当前仅在 Typora/github 中得到支持。
 
 ## - 流程图 Flowchart
 ```mermaid
