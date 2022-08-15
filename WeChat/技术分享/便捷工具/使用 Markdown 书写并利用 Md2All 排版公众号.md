@@ -39,24 +39,21 @@ print("Hello, world!")
 | first column   | second column <br> One more thing |
 
 ## 7 公式
+行内公式: $e^{x^2}\neq{e^x}^2$
 
-Math inline: $\dfrac{\tfrac{1}{2}[1-(\tfrac{1}{2})^n]}{1-\tfrac{1}{2}} = s_n$
-
-Math block:
+块间公式:
 $$
-\oint_C x^3\,dx + 4y^2\,dy
-$$
-
-$$
-2 = \left(\frac{\left(3-x\right)\times2}{3-x}\right)
+H(D_2) = -(\frac{2}{4}\ log_2 \frac{2}{4} + \frac{2}{4}\ log_2 \frac{2}{4}) = 1
 $$
 
+以及矩阵：
 $$
-\sum_{m=1}^\infty\sum_{n=1}^\infty\frac{m^2\,n}{3^m\left(m\,3^n+n\,3^m\right)}
-$$
-
-$$
-\phi_n(\kappa) = \frac{1}{\kappa\pi^2}\int_0^\infty\frac{\sin(\kappa R)}{\kappa R}R^2
+        \begin{pmatrix}
+        1 & a_1 & a_1^2 & \cdots & a_1^n \\
+        1 & a_2 & a_2^2 & \cdots & a_2^n \\
+        \vdots & \vdots & \vdots & \ddots & \vdots \\
+        1 & a_m & a_m^2 & \cdots & a_m^n \\
+        \end{pmatrix}
 $$
 
 ***
